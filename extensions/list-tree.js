@@ -1,3 +1,5 @@
+const { BinarySearchTree } = require("../src/binary-search-tree");
+
 class Node {
   constructor(data) {
     this.data = data;
